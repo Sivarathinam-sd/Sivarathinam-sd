@@ -10,7 +10,7 @@ I’m a student pursuing M.Tech in Artificial Intelligence and Data Science. I b
 
 ## What I do
 - Build and Contribute ML/AI applications for real world cases
-- Keep my repositories up-to-date as I learn and iterate
+- Keep my repositories up-to-date and frugal as possible
 - Focus on reproducible workflows and practical designs and deployments
 
 ---
