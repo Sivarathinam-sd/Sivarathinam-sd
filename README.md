@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sivarathinam-sd
+# 👋 Hi, I’m Sivarathinam S D
 > Crafting end-to-end ML apps and learning by building.
 
 ---
@@ -9,14 +9,14 @@ I’m a student pursuing M.Tech in Artificial Intelligence and Data Science. I b
 ---
 
 ## What I do
-- Build end-to-end ML/AI applications (data → model → deploy)
+- Build and Contribute ML/AI applications for real world cases
 - Keep my repositories up-to-date as I learn and iterate
-- Focus on reproducible workflows and practical deployments
+- Focus on reproducible workflows and practical designs and deployments
 
 ---
 
 ## Currently
-- Generative AI (working with modern LLMs and generative models)  
+- Generative AI 
 - Building APIs and microservices with FastAPI  
 - ML system design: model serving, pipelines, monitoring, and scalable deployments
 
