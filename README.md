@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I’m Sivarathinam-sd
+> Crafting end-to-end ML apps and learning by building.
 
-<!--
-**Sivarathinam-sd/Sivarathinam-sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
+I’m a student pursuing M.Tech in Artificial Intelligence and Data Science. I build end-to-end applications and update my projects continuously as I learn new techniques and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I do
+- Build end-to-end ML/AI applications (data → model → deploy)
+- Keep my repositories up-to-date as I learn and iterate
+- Focus on reproducible workflows and practical deployments
+
+---
+
+## Currently
+- Generative AI (working with modern LLMs and generative models)  
+- Building APIs and microservices with FastAPI  
+- ML system design: model serving, pipelines, monitoring, and scalable deployments
+
+---
+
+## Projects
+Project details are updated frequently in my repos — check my GitHub for the latest work.
+
+---
+
+## Contact
+- GitHub: https://github.com/Sivarathinam-sd
+
+---
