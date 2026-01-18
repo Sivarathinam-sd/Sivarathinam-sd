@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Sivarathinam S D
-> Crafting end-to-end ML apps and learning by building.
+#  Holla , I’m Sivarathinam S D
+
 
 ---
 
